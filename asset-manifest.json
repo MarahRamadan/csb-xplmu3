@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-xplmu3/static/css/main.a558f1fa.css",
+    "main.js": "https://.github.io/csb-xplmu3/static/js/main.b6ce5b7d.js",
+    "static/media/ai.png": "https://.github.io/csb-xplmu3/static/media/ai.ab4164698fa57e571a58.png",
+    "static/media/possibility.png": "https://.github.io/csb-xplmu3/static/media/possibility.0f2d06f96b0326c254bc.png",
+    "static/media/blog01.png": "https://.github.io/csb-xplmu3/static/media/blog01.cbfce53190f4a02a9d61.png",
+    "static/media/blog03.png": "https://.github.io/csb-xplmu3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "https://.github.io/csb-xplmu3/static/media/blog04.6648636b9a4dcea1eaf4.png",
+    "static/media/blog05.png": "https://.github.io/csb-xplmu3/static/media/blog05.6abaf705a289d7f3e678.png",
+    "static/media/blog02.png": "https://.github.io/csb-xplmu3/static/media/blog02.631c22478620ecc5ed1f.png",
+    "static/media/people.png": "https://.github.io/csb-xplmu3/static/media/people.23c31b3a5fa5810c7883.png",
+    "static/media/logo.svg": "https://.github.io/csb-xplmu3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "https://.github.io/csb-xplmu3/index.html",
+    "main.a558f1fa.css.map": "https://.github.io/csb-xplmu3/static/css/main.a558f1fa.css.map",
+    "main.b6ce5b7d.js.map": "https://.github.io/csb-xplmu3/static/js/main.b6ce5b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a558f1fa.css",
+    "static/js/main.b6ce5b7d.js"
+  ]
+}
